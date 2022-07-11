@@ -1,0 +1,408 @@
+[
+{
+            "id": 1,
+            "attributes": {
+                "product": "Axle Seals",
+                "price": "0",
+                "model": null,
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-27T16:39:16.119Z",
+                "updatedAt": "2022-05-28T06:04:44.154Z",
+                "publishedAt": "2022-05-28T06:04:44.152Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "product": "Brake Master Cylinder",
+                "price": "0",
+                "model": "TY47210-23321-71",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-27T17:05:46.859Z",
+                "updatedAt": "2022-05-28T06:04:50.760Z",
+                "publishedAt": "2022-05-28T06:04:50.759Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "product": "Brake Master Cylinder",
+                "price": "0",
+                "model": "HY1345016",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-27T17:36:09.666Z",
+                "updatedAt": "2022-05-28T06:04:55.474Z",
+                "publishedAt": "2022-05-28T06:04:55.473Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "product": "Brake Master Cylinder",
+                "price": "0",
+                "model": "CL2779923",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:44:31.308Z",
+                "updatedAt": "2022-05-28T06:06:50.468Z",
+                "publishedAt": "2022-05-28T06:06:50.466Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "product": "Brake Shoe",
+                "price": "0",
+                "model": "NI44070-FK000",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:47:20.896Z",
+                "updatedAt": "2022-05-28T06:06:58.040Z",
+                "publishedAt": "2022-05-28T06:06:58.036Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "product": "Clutch Brake Cylinder",
+                "price": "0",
+                "model": "TY31420-23320-71",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:48:39.054Z",
+                "updatedAt": "2022-05-28T06:07:01.518Z",
+                "publishedAt": "2022-05-28T06:07:01.514Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 7,
+            "attributes": {
+                "product": "Clutch Release Brake Cylinder",
+                "price": "0",
+                "model": "MB91A51-03500",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:51:25.453Z",
+                "updatedAt": "2022-05-28T06:07:04.899Z",
+                "publishedAt": "2022-05-28T06:07:04.898Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 8,
+            "attributes": {
+                "product": "Cylinder Brake Master",
+                "price": "0",
+                "model": "TY31410-26600-71",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:52:34.347Z",
+                "updatedAt": "2022-05-28T06:07:08.442Z",
+                "publishedAt": "2022-05-28T06:07:08.440Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 9,
+            "attributes": {
+                "product": "Cylinder Clutch Brake",
+                "price": "0",
+                "model": "TY31420-23320-71",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:53:48.860Z",
+                "updatedAt": "2022-05-28T06:07:11.723Z",
+                "publishedAt": "2022-05-28T06:07:11.720Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 10,
+            "attributes": {
+                "product": "Cylinder Master",
+                "price": "0",
+                "model": "CL851820 ",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:54:46.839Z",
+                "updatedAt": "2022-05-28T06:07:15.058Z",
+                "publishedAt": "2022-05-28T06:07:15.056Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 11,
+            "attributes": {
+                "product": "Cylinder Master",
+                "price": "0",
+                "model": "CL2775681",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:56:56.211Z",
+                "updatedAt": "2022-05-28T06:16:10.107Z",
+                "publishedAt": "2022-05-28T06:16:10.105Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 13,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "MB91484-27100",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T04:59:46.125Z",
+                "updatedAt": "2022-05-28T06:16:13.041Z",
+                "publishedAt": "2022-05-28T06:16:13.039Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 14,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "HY1351354",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:03:42.830Z",
+                "updatedAt": "2022-05-28T06:16:23.406Z",
+                "publishedAt": "2022-05-28T06:16:23.403Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 15,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "TY47513-U2100-71",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:07:13.879Z",
+                "updatedAt": "2022-05-28T06:16:27.033Z",
+                "publishedAt": "2022-05-28T06:16:27.031Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 16,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "CL1319361",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:08:52.349Z",
+                "updatedAt": "2022-05-28T06:16:30.210Z",
+                "publishedAt": "2022-05-28T06:16:30.208Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 17,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "CL851820",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:09:55.655Z",
+                "updatedAt": "2022-05-28T06:16:34.697Z",
+                "publishedAt": "2022-05-28T06:16:34.695Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 18,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "TL32475",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:14:45.822Z",
+                "updatedAt": "2022-05-28T06:16:38.338Z",
+                "publishedAt": "2022-05-28T06:16:38.336Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 22,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "KO3EB-36-51180",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:24:58.475Z",
+                "updatedAt": "2022-05-28T06:25:38.891Z",
+                "publishedAt": "2022-05-28T06:25:38.890Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 23,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "TY47530-U2100-71",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:25:51.686Z",
+                "updatedAt": "2022-05-28T06:25:42.074Z",
+                "publishedAt": "2022-05-28T06:25:42.073Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 24,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "MB91A46-10100",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:30:10.392Z",
+                "updatedAt": "2022-05-28T06:25:45.331Z",
+                "publishedAt": "2022-05-28T06:25:45.329Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 25,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "TC281E5-42101",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:31:02.283Z",
+                "updatedAt": "2022-05-28T06:25:48.411Z",
+                "publishedAt": "2022-05-28T06:25:48.409Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 26,
+            "attributes": {
+                "product": "Master Cylinder",
+                "price": "0",
+                "model": "NI46010-14H00",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:34:08.328Z",
+                "updatedAt": "2022-05-28T06:25:51.439Z",
+                "publishedAt": "2022-05-28T06:25:51.437Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 27,
+            "attributes": {
+                "product": "Parking Brake Cables",
+                "price": "0",
+                "model": null,
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:34:42.126Z",
+                "updatedAt": "2022-05-28T06:25:54.020Z",
+                "publishedAt": "2022-05-28T06:25:54.019Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 28,
+            "attributes": {
+                "product": "Spring Kits",
+                "price": "0",
+                "model": null,
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:34:58.576Z",
+                "updatedAt": "2022-05-28T06:25:56.914Z",
+                "publishedAt": "2022-05-28T06:25:56.913Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 29,
+            "attributes": {
+                "product": "Wheel Brake Cylinder",
+                "price": "0",
+                "model": "TY47510-30510-71",
+                "category_es": "Frenos",
+                "category_en": "Brakes",
+                "createdAt": "2022-05-28T05:37:00.425Z",
+                "updatedAt": "2022-05-28T06:25:59.636Z",
+                "publishedAt": "2022-05-28T06:25:59.634Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 30,
+            "attributes": {
+                "product": "Wheel Brake Cylinder",
+                "price": "0",
+                "model": "TY47510-30510-71",
+                "category_es": "Baterias",
+                "category_en": "Bateries",
+                "createdAt": "2022-05-28T05:37:00.425Z",
+                "updatedAt": "2022-05-28T06:25:59.636Z",
+                "publishedAt": "2022-05-28T06:25:59.634Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 31,
+            "attributes": {
+                "product": "Wheel Brake Cylinder",
+                "price": "0",
+                "model": "TY47510-30510-71",
+                "category_es": "Baterias",
+                "category_en": "Bateries",
+                "createdAt": "2022-05-28T05:37:00.425Z",
+                "updatedAt": "2022-05-28T06:25:59.636Z",
+                "publishedAt": "2022-05-28T06:25:59.634Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 32,
+            "attributes": {
+                "product": "Wheel Brake Cylinder",
+                "price": "0",
+                "model": "TY47510-30510-71",
+                "category_es": "Baterias",
+                "category_en": "Bateries",
+                "createdAt": "2022-05-28T05:37:00.425Z",
+                "updatedAt": "2022-05-28T06:25:59.636Z",
+                "publishedAt": "2022-05-28T06:25:59.634Z",
+                "quantity": "0"
+            }
+        },
+        {
+            "id": 33,
+            "attributes": {
+                "product": "Wheel Brake Cylinder",
+                "price": "0",
+                "model": "TY47510-30510-71",
+                "category_es": "Baterias",
+                "category_en": "Bateries",
+                "createdAt": "2022-05-28T05:37:00.425Z",
+                "updatedAt": "2022-05-28T06:25:59.636Z",
+                "publishedAt": "2022-05-28T06:25:59.634Z",
+                "quantity": "0"
+            }
+        }
+]
